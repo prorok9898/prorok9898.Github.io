@@ -1,0 +1,84 @@
+body{
+	background-image: url(image/1.jpg)
+}
+.messege{
+	transform:
+	transition: 5s all
+	
+	color:#009908;
+	background-color: #879994;
+	border: 1px solid #181818;
+	font-size: 30px;
+	margin-top: 20px;
+	padding: 10px;
+	border-radius: 60px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 900;
+}
+
+.apple{
+	background-color:#000000;
+}
+
+.tree{
+    color:#A0675C; 
+}
+
+
+.dog{
+	color:#009908;
+	background-color: #879994;
+	border: 1px solid #181818;
+	font-size: 30px;
+	margin-top: 20px;
+	padding: 10px;
+	border-radius: 60px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 900;
+}
+
+.dog:hover{
+	border: 5px solid #181818;
+}
+
+#rex{
+	color:#FFF0FB;
+}
+
+.zoo{
+	color:#FFF0FB;
+}
+
+a{
+	color:#FF000D;
+}
+
+#gg{
+	color:#1900FF;
+}
+
+.warning{
+	background-color:#FFCE42;
+	color:#0A1119;
+	right:10px;
+}
+
+.fail{
+	background-color:#FF5050;
+	color:#ffffff;
+	width:40%;
+	font-size: 30px;
+}
+
+.info{
+	background-color:#4C8CF5;
+	color:#ffffff;
+	width:31%;
+}
+
+.messege:hover{
+	border: 5px solid #181818;
+}
+
